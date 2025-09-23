@@ -12,5 +12,6 @@ luci-app-upnp 下载
 
 luci-app-turboacc 加速
 
-luci-app-filebrowse 文件管理
+luci-app-filebrowse-go 文件管理
+
 
