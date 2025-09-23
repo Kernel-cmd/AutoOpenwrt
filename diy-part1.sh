@@ -16,5 +16,5 @@
 # Add a feed source
 echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 echo 'src-git luci_app_xray https://github.com/yichya/luci-app-xray' >>feeds.conf.default
-echo 'src-git package/luci-i18n-xray-zh-cn https://github.com/xiechangan123/luci-i18n-xray-zh-cn' >>feeds.conf.default
+# echo 'src-git package/luci-i18n-xray-zh-cn https://github.com/xiechangan123/luci-i18n-xray-zh-cn' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
