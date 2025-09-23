@@ -1,4 +1,4 @@
-基于https://github.com/padavanonly/immortalwrt-mt798x-24.10源码编译固件
+基于 https://github.com/padavanonly/immortalwrt-mt798x-24.10 源码编译固件
 
 jcq30pro 自用
 
@@ -15,6 +15,7 @@ luci-app-upnp 下载
 luci-app-turboacc 加速
 
 luci-app-filebrowse-go 文件管理
+
 
 
 
