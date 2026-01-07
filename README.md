@@ -10,3 +10,7 @@ luci-xray  --->>xray
 
 luci-nikki --->>mihomo
 
+
+
+
+password默认密码
