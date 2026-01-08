@@ -8,9 +8,10 @@ luci-xray  --->>xray
 
 
 
-luci-nikki --->>mihomo
+homeproxy --->>singbox
 
 
 
 
 password默认密码
+
